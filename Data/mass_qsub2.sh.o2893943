@@ -1,0 +1,29 @@
+initialization time 0.999018, counting time 738.333782, writing time 0.000002, size 4, rank 3, hostaname elf23, memory 501672 Kb
+initialization time 1.016824, counting time 670.919969, writing time 0.000003, size 4, rank 2, hostaname elf71, memory 504104 Kb
+initialization time 1.003823, counting time 598.852917, writing time 0.000003, size 4, rank 0, hostaname elf19, memory 501668 Kb
+version 2, cores 4, total time 739.390058 seconds, words 50000, lines 200000
+initialization time 0.978943, counting time 628.546939, writing time 0.000001, size 4, rank 1, hostaname elf03, memory 500824 Kb
+elf19
+---Done---
+
+initialization time 12.403129, counting time 2462.651841, writing time 0.000003, size 4, rank 3, hostaname elf23, memory 1687484 Kb
+initialization time 3.993989, counting time 2520.539249, writing time 0.000003, size 4, rank 1, hostaname elf03, memory 1686856 Kb
+initialization time 4.183261, counting time 2695.382212, writing time 0.000003, size 4, rank 2, hostaname elf71, memory 1690196 Kb
+initialization time 3.769267, counting time 2315.845157, writing time 0.000002, size 4, rank 0, hostaname elf19, memory 1687388 Kb
+version 2, cores 4, total time 2699.585960 seconds, words 50000, lines 800000
+elf19
+---Done---
+
+initialization time 2.966418, counting time 1854.758209, writing time 0.000002, size 4, rank 3, hostaname elf23, memory 1333364 Kb
+initialization time 2.744138, counting time 1951.416238, writing time 0.000010, size 4, rank 2, hostaname elf71, memory 1294692 Kb
+initialization time 2.776065, counting time 1861.987740, writing time 0.000003, size 4, rank 1, hostaname elf03, memory 1291632 Kb
+initialization time 3.022314, counting time 1797.817543, writing time 0.000003, size 4, rank 0, hostaname elf19, memory 1292396 Kb
+version 2, cores 4, total time 1954.202493 seconds, words 50000, lines 600000
+elf19
+---Done---
+
+initialization time 1.856615, counting time 1210.010084, writing time 0.000003, size 4, rank 3, hostaname elf23, memory 897180 Kb
+initialization time 1.700668, counting time 1264.831394, writing time 0.000011, size 4, rank 1, hostaname elf03, memory 896212 Kb
+initialization time 2.486431, counting time 1325.016782, writing time 0.000003, size 4, rank 2, hostaname elf71, memory 899404 Kb
+initialization time 2.620206, counting time 1213.229466, writing time 0.000003, size 4, rank 0, hostaname elf19, memory 896928 Kb
+version 2, cores 4, total time 1327.542759 seconds, words 50000, lines 400000

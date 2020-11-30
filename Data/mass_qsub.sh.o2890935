@@ -1,0 +1,54 @@
+initialization time 6.645685, counting time 2234.793241, writing time 0.000003, size 8, rank 0, hostaname elf79, memory 2049708 Kb
+version 2, cores 8, total time 2477.490103 seconds, words 50000, lines 1000000
+initialization time 6.398889, counting time 2153.010575, writing time 0.000003, size 8, rank 1, hostaname elf79, memory 2049760 Kb
+initialization time 5.718001, counting time 1978.208112, writing time 0.000003, size 8, rank 2, hostaname elf79, memory 2049488 Kb
+initialization time 6.680041, counting time 2354.878053, writing time 0.000004, size 8, rank 3, hostaname elf79, memory 2049628 Kb
+initialization time 5.745799, counting time 2456.688390, writing time 0.000003, size 8, rank 4, hostaname elf79, memory 2049592 Kb
+initialization time 5.780733, counting time 2229.579413, writing time 0.000004, size 8, rank 5, hostaname elf79, memory 2049636 Kb
+initialization time 7.680402, counting time 2469.779299, writing time 0.000003, size 8, rank 6, hostaname elf79, memory 2049676 Kb
+initialization time 5.678946, counting time 1952.364827, writing time 0.000004, size 8, rank 7, hostaname elf79, memory 2049424 Kb
+elf79
+---Done---
+
+--------------------------------------------------------------------------
+mpirun noticed that process rank 7 with PID 5492 on node elf79.beocat.ksu.edu exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+elf79
+---Done---
+
+initialization time 4.123813, counting time 1473.762715, writing time 0.000004, size 8, rank 0, hostaname elf79, memory 1258828 Kb
+version 2, cores 8, total time 1626.951206 seconds, words 50000, lines 600000
+initialization time 3.717753, counting time 1173.286709, writing time 0.000004, size 8, rank 2, hostaname elf79, memory 1258868 Kb
+initialization time 4.351279, counting time 1501.690144, writing time 0.000003, size 8, rank 3, hostaname elf79, memory 1259024 Kb
+initialization time 3.741545, counting time 1387.007132, writing time 0.000003, size 8, rank 4, hostaname elf79, memory 1258728 Kb
+initialization time 4.220820, counting time 1622.700897, writing time 0.000004, size 8, rank 6, hostaname elf79, memory 1258896 Kb
+initialization time 4.210310, counting time 1446.624699, writing time 0.000004, size 8, rank 7, hostaname elf79, memory 1259052 Kb
+initialization time 3.577057, counting time 1297.640540, writing time 0.000004, size 8, rank 1, hostaname elf79, memory 1258900 Kb
+initialization time 4.273027, counting time 1526.227039, writing time 0.000004, size 8, rank 5, hostaname elf79, memory 1259160 Kb
+elf79
+---Done---
+
+initialization time 2.460524, counting time 823.006233, writing time 0.000004, size 8, rank 0, hostaname elf79, memory 863704 Kb
+version 2, cores 8, total time 1084.939051 seconds, words 50000, lines 400000
+initialization time 2.501160, counting time 806.815468, writing time 0.000004, size 8, rank 1, hostaname elf79, memory 863792 Kb
+initialization time 2.408010, counting time 840.393240, writing time 0.000004, size 8, rank 2, hostaname elf79, memory 863492 Kb
+initialization time 2.608951, counting time 1082.310196, writing time 0.000003, size 8, rank 3, hostaname elf79, memory 863744 Kb
+initialization time 2.325612, counting time 1022.165853, writing time 0.000004, size 8, rank 4, hostaname elf79, memory 863608 Kb
+initialization time 2.344559, counting time 869.705303, writing time 0.000004, size 8, rank 5, hostaname elf79, memory 863836 Kb
+initialization time 2.332777, counting time 1042.800492, writing time 0.000003, size 8, rank 6, hostaname elf79, memory 863608 Kb
+initialization time 2.281446, counting time 918.705071, writing time 0.000004, size 8, rank 7, hostaname elf79, memory 863664 Kb
+elf79
+---Done---
+
+initialization time 1.185152, counting time 427.374047, writing time 0.000015, size 8, rank 0, hostaname elf79, memory 468288 Kb
+version 2, cores 8, total time 476.972331 seconds, words 50000, lines 200000
+initialization time 1.150510, counting time 368.365377, writing time 0.000004, size 8, rank 1, hostaname elf79, memory 468428 Kb
+initialization time 1.208100, counting time 386.221185, writing time 0.000003, size 8, rank 2, hostaname elf79, memory 468008 Kb
+initialization time 1.168659, counting time 463.400622, writing time 0.000016, size 8, rank 3, hostaname elf79, memory 468096 Kb
+initialization time 1.178079, counting time 448.620970, writing time 0.000013, size 8, rank 4, hostaname elf79, memory 468404 Kb
+initialization time 1.217634, counting time 402.594463, writing time 0.000003, size 8, rank 5, hostaname elf79, memory 468140 Kb
+initialization time 1.178048, counting time 475.765438, writing time 0.000013, size 8, rank 6, hostaname elf79, memory 468420 Kb
+initialization time 1.130521, counting time 374.942384, writing time 0.000003, size 8, rank 7, hostaname elf79, memory 468048 Kb
+elf79
+---Done---
+

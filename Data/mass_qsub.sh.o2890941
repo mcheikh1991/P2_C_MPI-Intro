@@ -1,0 +1,25 @@
+initialization time 5.318789, counting time 14242.386794, writing time 0.000003, size 1, rank 0, hostaname elf22, memory 2085908 Kb
+version 2, cores 1, total time 14247.706865 seconds, words 50000, lines 1000000
+elf22
+---Done---
+
+initialization time 4.427303, counting time 9602.451261, writing time 0.000003, size 1, rank 0, hostaname elf22, memory 1690552 Kb
+version 2, cores 1, total time 9606.880000 seconds, words 50000, lines 800000
+elf22
+---Done---
+
+initialization time 3.424255, counting time 7182.706350, writing time 0.000003, size 1, rank 0, hostaname elf22, memory 1295260 Kb
+version 2, cores 1, total time 7186.275593 seconds, words 50000, lines 600000
+elf22
+---Done---
+
+initialization time 2.332034, counting time 5032.137206, writing time 0.000003, size 1, rank 0, hostaname elf22, memory 899936 Kb
+version 2, cores 1, total time 5034.470486 seconds, words 50000, lines 400000
+elf22
+---Done---
+
+initialization time 0.932604, counting time 2454.952836, writing time 0.000003, size 1, rank 0, hostaname elf22, memory 459784 Kb
+version 2, cores 1, total time 2455.886329 seconds, words 50000, lines 200000
+elf22
+---Done---
+

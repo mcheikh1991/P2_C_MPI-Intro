@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 10781 on node elf68.beocat.ksu.edu exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+elf68
+---Done---
+
+initialization time 4.702572, counting time 6692.143963, writing time 0.000003, size 2, rank 0, hostaname elf68, memory 1653704 Kb
+version 2, cores 2, total time 8238.456687 seconds, words 50000, lines 800000
+initialization time 4.249833, counting time 8234.205078, writing time 0.000003, size 2, rank 1, hostaname elf68, memory 1653680 Kb
+elf68
+---Done---
+
+initialization time 4.488490, counting time 4111.287943, writing time 0.000004, size 2, rank 0, hostaname elf68, memory 1258636 Kb
+version 2, cores 2, total time 4711.542585 seconds, words 50000, lines 600000
+initialization time 4.457270, counting time 4707.084040, writing time 0.000003, size 2, rank 1, hostaname elf68, memory 1258360 Kb
+elf68
+---Done---
+
+initialization time 2.103209, counting time 2796.852913, writing time 0.000004, size 2, rank 0, hostaname elf68, memory 863404 Kb
+version 2, cores 2, total time 3264.454842 seconds, words 50000, lines 400000
+initialization time 2.093640, counting time 3262.360063, writing time 0.000003, size 2, rank 1, hostaname elf68, memory 863192 Kb
+elf68
+---Done---
+
+initialization time 1.099785, counting time 1682.903795, writing time 0.000003, size 2, rank 1, hostaname elf68, memory 467568 Kb
+initialization time 1.132321, counting time 1510.670105, writing time 0.000013, size 2, rank 0, hostaname elf68, memory 467740 Kb
+version 2, cores 2, total time 1684.505134 seconds, words 50000, lines 200000
+elf68
+---Done---
+

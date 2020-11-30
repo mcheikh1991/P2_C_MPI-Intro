@@ -1,0 +1,86 @@
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 23899 on node elf18.beocat.ksu.edu exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+elf18
+---Done---
+
+initialization time 4.225482, counting time 1023.304200, writing time 0.000004, size 16, rank 0, hostaname elf18, memory 1650752 Kb
+version 2, cores 16, total time 1147.271436 seconds, words 50000, lines 800000
+initialization time 4.428378, counting time 1053.442113, writing time 0.000003, size 16, rank 1, hostaname elf18, memory 1651204 Kb
+initialization time 4.370956, counting time 1052.829483, writing time 0.000004, size 16, rank 2, hostaname elf18, memory 1651212 Kb
+initialization time 4.379876, counting time 1057.162160, writing time 0.000004, size 16, rank 3, hostaname elf18, memory 1651208 Kb
+initialization time 4.410111, counting time 1043.451426, writing time 0.000003, size 16, rank 4, hostaname elf18, memory 1650936 Kb
+initialization time 4.370953, counting time 1077.004652, writing time 0.000003, size 16, rank 5, hostaname elf18, memory 1651024 Kb
+initialization time 6.428571, counting time 1124.712371, writing time 0.000003, size 16, rank 6, hostaname elf18, memory 1651272 Kb
+initialization time 4.340697, counting time 1093.560680, writing time 0.000003, size 16, rank 7, hostaname elf18, memory 1651268 Kb
+initialization time 4.419256, counting time 1028.455241, writing time 0.000004, size 16, rank 8, hostaname elf18, memory 1651256 Kb
+initialization time 4.410123, counting time 1106.726607, writing time 0.000002, size 16, rank 9, hostaname elf18, memory 1651284 Kb
+initialization time 6.290811, counting time 1120.041105, writing time 0.000002, size 16, rank 10, hostaname elf18, memory 1651096 Kb
+initialization time 4.411676, counting time 1035.198304, writing time 0.000003, size 16, rank 11, hostaname elf18, memory 1651252 Kb
+initialization time 4.385187, counting time 1094.860621, writing time 0.000003, size 16, rank 12, hostaname elf18, memory 1651296 Kb
+initialization time 4.419309, counting time 1142.849944, writing time 0.000003, size 16, rank 13, hostaname elf18, memory 1651124 Kb
+initialization time 4.447411, counting time 1074.250046, writing time 0.000003, size 16, rank 14, hostaname elf18, memory 1651308 Kb
+initialization time 4.297496, counting time 1058.805109, writing time 0.000003, size 16, rank 15, hostaname elf18, memory 1651112 Kb
+elf18
+---Done---
+
+initialization time 3.270774, counting time 773.876100, writing time 0.000004, size 16, rank 0, hostaname elf18, memory 1255692 Kb
+version 2, cores 16, total time 864.192655 seconds, words 50000, lines 600000
+initialization time 3.392572, counting time 807.474799, writing time 0.000003, size 16, rank 1, hostaname elf18, memory 1255920 Kb
+initialization time 3.545443, counting time 786.785702, writing time 0.000004, size 16, rank 2, hostaname elf18, memory 1255832 Kb
+initialization time 3.473176, counting time 788.629748, writing time 0.000003, size 16, rank 3, hostaname elf18, memory 1255800 Kb
+initialization time 3.362955, counting time 788.580098, writing time 0.000003, size 16, rank 4, hostaname elf18, memory 1256032 Kb
+initialization time 3.423689, counting time 802.275425, writing time 0.000003, size 16, rank 5, hostaname elf18, memory 1255996 Kb
+initialization time 3.423670, counting time 856.192832, writing time 0.000003, size 16, rank 6, hostaname elf18, memory 1255928 Kb
+initialization time 3.244317, counting time 809.108521, writing time 0.000003, size 16, rank 7, hostaname elf18, memory 1255904 Kb
+initialization time 3.547406, counting time 790.685826, writing time 0.000003, size 16, rank 8, hostaname elf18, memory 1255952 Kb
+initialization time 4.508152, counting time 835.831991, writing time 0.000003, size 16, rank 9, hostaname elf18, memory 1255832 Kb
+initialization time 3.470841, counting time 833.036479, writing time 0.000003, size 16, rank 10, hostaname elf18, memory 1255952 Kb
+initialization time 3.367234, counting time 781.916015, writing time 0.000003, size 16, rank 11, hostaname elf18, memory 1255872 Kb
+initialization time 3.295571, counting time 802.855805, writing time 0.000003, size 16, rank 12, hostaname elf18, memory 1255952 Kb
+initialization time 3.295580, counting time 860.895227, writing time 0.000003, size 16, rank 13, hostaname elf18, memory 1255596 Kb
+initialization time 3.368726, counting time 782.379809, writing time 0.000004, size 16, rank 14, hostaname elf18, memory 1255952 Kb
+initialization time 4.675480, counting time 789.588998, writing time 0.000003, size 16, rank 15, hostaname elf18, memory 1255888 Kb
+elf18
+---Done---
+
+initialization time 2.127833, counting time 510.310304, writing time 0.000005, size 16, rank 0, hostaname elf18, memory 860268 Kb
+version 2, cores 16, total time 579.111872 seconds, words 50000, lines 400000
+initialization time 2.455103, counting time 546.821306, writing time 0.000003, size 16, rank 1, hostaname elf18, memory 860420 Kb
+initialization time 2.417917, counting time 529.382775, writing time 0.000004, size 16, rank 2, hostaname elf18, memory 860508 Kb
+initialization time 3.400693, counting time 532.534042, writing time 0.000003, size 16, rank 3, hostaname elf18, memory 860576 Kb
+initialization time 2.269979, counting time 519.723101, writing time 0.000003, size 16, rank 4, hostaname elf18, memory 860508 Kb
+initialization time 2.269957, counting time 527.946915, writing time 0.000003, size 16, rank 5, hostaname elf18, memory 860548 Kb
+initialization time 3.292315, counting time 575.817804, writing time 0.000003, size 16, rank 6, hostaname elf18, memory 860396 Kb
+initialization time 3.202628, counting time 525.649030, writing time 0.000003, size 16, rank 7, hostaname elf18, memory 860516 Kb
+initialization time 2.340493, counting time 533.252106, writing time 0.000003, size 16, rank 8, hostaname elf18, memory 860680 Kb
+initialization time 2.250485, counting time 551.333970, writing time 0.000003, size 16, rank 9, hostaname elf18, memory 860536 Kb
+initialization time 3.001160, counting time 545.959882, writing time 0.000003, size 16, rank 10, hostaname elf18, memory 860596 Kb
+initialization time 2.262462, counting time 535.556055, writing time 0.000003, size 16, rank 11, hostaname elf18, memory 860472 Kb
+initialization time 2.258250, counting time 529.135065, writing time 0.000003, size 16, rank 12, hostaname elf18, memory 860424 Kb
+initialization time 2.878601, counting time 574.253854, writing time 0.000003, size 16, rank 13, hostaname elf18, memory 860420 Kb
+initialization time 2.306280, counting time 535.969697, writing time 0.000003, size 16, rank 14, hostaname elf18, memory 860628 Kb
+initialization time 2.250576, counting time 532.598749, writing time 0.000003, size 16, rank 15, hostaname elf18, memory 860636 Kb
+elf18
+---Done---
+
+initialization time 1.211619, counting time 266.970303, writing time 0.000004, size 16, rank 0, hostaname elf18, memory 465000 Kb
+initialization time 1.197070, counting time 274.306173, writing time 0.000003, size 16, rank 1, hostaname elf18, memory 465392 Kb
+initialization time 1.295469, counting time 254.120330, writing time 0.000005, size 16, rank 2, hostaname elf18, memory 465100 Kb
+initialization time 1.356079, counting time 255.899559, writing time 0.000004, size 16, rank 3, hostaname elf18, memory 465356 Kb
+initialization time 1.356492, counting time 258.351922, writing time 0.000004, size 16, rank 4, hostaname elf18, memory 465012 Kb
+initialization time 1.257921, counting time 271.407044, writing time 0.000003, size 16, rank 5, hostaname elf18, memory 465196 Kb
+initialization time 1.345098, counting time 279.153510, writing time 0.000003, size 16, rank 6, hostaname elf18, memory 465300 Kb
+initialization time 1.231719, counting time 272.664556, writing time 0.000002, size 16, rank 7, hostaname elf18, memory 465320 Kb
+initialization time 1.246103, counting time 268.020032, writing time 0.000012, size 16, rank 8, hostaname elf18, memory 465076 Kb
+initialization time 1.307074, counting time 275.598446, writing time 0.000011, size 16, rank 9, hostaname elf18, memory 465248 Kb
+initialization time 1.298877, counting time 270.967233, writing time 0.000003, size 16, rank 10, hostaname elf18, memory 465224 Kb
+initialization time 1.179371, counting time 268.847886, writing time 0.000003, size 16, rank 11, hostaname elf18, memory 465152 Kb
+initialization time 1.277083, counting time 281.096894, writing time 0.000011, size 16, rank 12, hostaname elf18, memory 465076 Kb
+initialization time 1.286817, counting time 284.715982, writing time 0.000010, size 16, rank 13, hostaname elf18, memory 464852 Kb
+initialization time 1.294299, counting time 256.824089, writing time 0.000013, size 16, rank 14, hostaname elf18, memory 465308 Kb
+initialization time 1.137021, counting time 266.967887, writing time 0.000004, size 16, rank 15, hostaname elf18, memory 465120 Kb
+version 2, cores 16, total time 286.005346 seconds, words 50000, lines 200000
+elf18
+---Done---
+

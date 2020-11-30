@@ -1,0 +1,30 @@
+initialization time 5.259504, counting time 6356.002095, writing time 0.000003, size 2, rank 0, hostaname elf23, memory 2087164 Kb
+version 2, cores 2, total time 8804.897107 seconds, words 50000, lines 1000000
+initialization time 5.288237, counting time 8799.604857, writing time 0.000003, size 2, rank 1, hostaname elf23, memory 2086804 Kb
+elf23
+---Done---
+8
+initialization time 4.241261, counting time 5161.789998, writing time 0.000003, size 2, rank 0, hostaname elf23, memory 1691528 Kb
+version 2, cores 2, total time 5292.413361 seconds, words 50000, lines 800000
+initialization time 4.032427, counting time 5288.379817, writing time 0.000003, size 2, rank 1, hostaname elf23, memory 1691532 Kb
+elf23
+---Done---
+
+initialization time 2.836528, counting time 3689.563613, writing time 0.000002, size 2, rank 0, hostaname elf23, memory 1296384 Kb
+version 2, cores 2, total time 3888.840528 seconds, words 50000, lines 600000
+initialization time 3.008489, counting time 3885.826804, writing time 0.000003, size 2, rank 1, hostaname elf23, memory 1296224 Kb
+elf23
+---Done---
+
+initialization time 1.823529, counting time 2409.607989, writing time 0.000002, size 2, rank 0, hostaname elf23, memory 901196 Kb
+version 2, cores 2, total time 2705.381652 seconds, words 50000, lines 400000
+initialization time 1.970080, counting time 2703.406018, writing time 0.000003, size 2, rank 1, hostaname elf23, memory 901072 Kb
+elf23
+---Done---
+
+initialization time 1.641168, counting time 1275.211854, writing time 0.000002, size 2, rank 0, hostaname elf23, memory 505416 Kb
+version 2, cores 2, total time 1276.892187 seconds, words 50000, lines 200000
+initialization time 1.702576, counting time 1238.878580, writing time 0.000002, size 2, rank 1, hostaname elf23, memory 505448 Kb
+elf23
+---Done---
+

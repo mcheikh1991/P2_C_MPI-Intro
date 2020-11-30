@@ -1,0 +1,24 @@
+initialization time 6.091568, counting time 3406.337833, writing time 0.004751, size 8, rank 3, hostaname elf79, memory 2049360 Kb
+initialization time 8.397584, counting time 2422.039176, writing time 0.025034, size 8, rank 4, hostaname elf79, memory 2047052 Kb
+initialization time 6.624141, counting time 2778.982115, writing time 0.010005, size 8, rank 5, hostaname elf79, memory 2047844 Kb
+initialization time 6.315466, counting time 2481.443092, writing time 0.000356, size 8, rank 0, hostaname elf79, memory 2045736 Kb
+version 2, cores 8, total time 3413.318944 seconds, words 50000, lines 1000000
+initialization time 52.352033, counting time 2210.716370, writing time 0.007100, size 8, rank 1, hostaname elf79, memory 2008632 Kb
+initialization time 6.433286, counting time 2116.931208, writing time 0.010142, size 8, rank 2, hostaname elf79, memory 2045528 Kb
+initialization time 45.224175, counting time 2440.554676, writing time 0.029471, size 8, rank 6, hostaname elf79, memory 2008624 Kb
+initialization time 8.854352, counting time 2458.661397, writing time 0.009480, size 8, rank 7, hostaname elf79, memory 2047100 Kb
+elf79
+---Done---
+
+initialization time 4.445122, counting time 1914.276891, writing time 0.000004, size 8, rank 1, hostaname elf79, memory 1654180 Kb
+initialization time 4.899755, counting time 1977.377027, writing time 0.000004, size 8, rank 2, hostaname elf79, memory 1654084 Kb
+initialization time 4.428188, counting time 2072.670707, writing time 0.000004, size 8, rank 3, hostaname elf79, memory 1654024 Kb
+initialization time 4.988762, counting time 1971.786348, writing time 0.000004, size 8, rank 4, hostaname elf79, memory 1654112 Kb
+initialization time 4.587793, counting time 1955.986250, writing time 0.000004, size 8, rank 5, hostaname elf79, memory 1654092 Kb
+initialization time 5.878467, counting time 2068.104229, writing time 0.000008, size 8, rank 6, hostaname elf79, memory 1654160 Kb
+initialization time 5.779404, counting time 1857.388069, writing time 0.000004, size 8, rank 7, hostaname elf79, memory 1654372 Kb
+initialization time 4.716685, counting time 1970.424347, writing time 0.000004, size 8, rank 0, hostaname elf79, memory 1653928 Kb
+version 2, cores 8, total time 2077.175503 seconds, words 50000, lines 800000
+elf79
+---Done---
+

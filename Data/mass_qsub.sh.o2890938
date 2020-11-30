@@ -1,0 +1,26 @@
+initialization time 6.159577, counting time 12631.364901, writing time 0.000003, size 1, rank 0, hostaname elf23, memory 2085740 Kb
+version 2, cores 1, total time 12637.526051 seconds, words 50000, lines 1000000
+elf23
+---Done---
+
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 16973 on node elf23.beocat.ksu.edu exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+elf23
+---Done---
+
+initialization time 2.980963, counting time 7431.940061, writing time 0.000003, size 1, rank 0, hostaname elf23, memory 1295280 Kb
+version 2, cores 1, total time 7435.101307 seconds, words 50000, lines 600000
+elf23
+---Done---
+
+initialization time 1.946018, counting time 5007.571348, writing time 0.000011, size 1, rank 0, hostaname elf23, memory 899948 Kb
+version 2, cores 1, total time 5009.518271 seconds, words 50000, lines 400000
+elf23
+---Done---
+
+initialization time 1.001803, counting time 2618.174376, writing time 0.000010, size 1, rank 0, hostaname elf23, memory 504364 Kb
+version 2, cores 1, total time 2619.177226 seconds, words 50000, lines 200000
+elf23
+---Done---
+

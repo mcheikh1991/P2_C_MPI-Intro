@@ -1,0 +1,79 @@
+--------------------------------------------------------------------------
+mpirun noticed that process rank 15 with PID 4796 on node elf19.beocat.ksu.edu exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+elf43
+---Done---
+
+initialization time 3.677826, counting time 575.066538, writing time 0.000003, size 16, rank 14, hostaname elf19, memory 1687644 Kb
+initialization time 3.954893, counting time 600.213885, writing time 0.000003, size 16, rank 2, hostaname elf02, memory 1688316 Kb
+initialization time 3.944433, counting time 605.160782, writing time 0.000003, size 16, rank 8, hostaname elf18, memory 1687664 Kb
+initialization time 3.881138, counting time 669.827136, writing time 0.000003, size 16, rank 10, hostaname elf47, memory 1689096 Kb
+initialization time 3.782061, counting time 565.878790, writing time 0.000003, size 16, rank 15, hostaname elf19, memory 1688452 Kb
+initialization time 3.927350, counting time 608.964285, writing time 0.000003, size 16, rank 3, hostaname elf02, memory 1687812 Kb
+initialization time 4.089948, counting time 670.989728, writing time 0.000003, size 16, rank 4, hostaname elf14, memory 1687708 Kb
+initialization time 4.112837, counting time 662.900802, writing time 0.000004, size 16, rank 0, hostaname elf43, memory 1686392 Kb
+version 2, cores 16, total time 818.432833 seconds, words 50000, lines 800000
+initialization time 4.096947, counting time 814.217174, writing time 0.000003, size 16, rank 6, hostaname elf42, memory 1686224 Kb
+initialization time 3.802940, counting time 730.258078, writing time 0.000002, size 16, rank 9, hostaname elf18, memory 1687692 Kb
+initialization time 4.116330, counting time 627.172741, writing time 0.000003, size 16, rank 11, hostaname elf47, memory 1688960 Kb
+initialization time 4.098932, counting time 695.478882, writing time 0.000003, size 16, rank 5, hostaname elf14, memory 1687660 Kb
+initialization time 4.081882, counting time 725.598659, writing time 0.000023, size 16, rank 1, hostaname elf43, memory 1686084 Kb
+initialization time 4.064830, counting time 671.257398, writing time 0.000003, size 16, rank 7, hostaname elf42, memory 1685832 Kb
+initialization time 3.664691, counting time 618.586301, writing time 0.000003, size 16, rank 12, hostaname elf53, memory 1688600 Kb
+initialization time 3.718818, counting time 756.689188, writing time 0.000003, size 16, rank 13, hostaname elf53, memory 1688788 Kb
+elf43
+---Done---
+
+--------------------------------------------------------------------------
+ORTE has lost communication with its daemon located on node:
+
+  hostname:  elf43.beocat.ksu.edu
+
+This is usually due to either a failure of the TCP network
+connection to the node, or possibly an internal failure of
+the daemon itself. We cannot recover from this failure, and
+therefore will terminate the job.
+--------------------------------------------------------------------------
+elf43
+---Done---
+
+initialization time 2.515107, counting time 298.021446, writing time 0.000003, size 16, rank 2, hostaname elf02, memory 897640 Kb
+initialization time 2.380560, counting time 311.841590, writing time 0.000003, size 16, rank 12, hostaname elf53, memory 898204 Kb
+initialization time 2.417140, counting time 334.145080, writing time 0.000002, size 16, rank 10, hostaname elf47, memory 898436 Kb
+initialization time 2.607360, counting time 396.514474, writing time 0.000004, size 16, rank 0, hostaname elf43, memory 895888 Kb
+version 2, cores 16, total time 400.073057 seconds, words 50000, lines 400000
+initialization time 2.362958, counting time 291.443911, writing time 0.000002, size 16, rank 14, hostaname elf19, memory 896956 Kb
+initialization time 2.510688, counting time 303.197730, writing time 0.000003, size 16, rank 3, hostaname elf02, memory 897304 Kb
+initialization time 2.566231, counting time 388.530523, writing time 0.000003, size 16, rank 6, hostaname elf42, memory 895076 Kb
+initialization time 2.362962, counting time 377.373229, writing time 0.000001, size 16, rank 13, hostaname elf53, memory 898044 Kb
+initialization time 2.586078, counting time 315.388196, writing time 0.000003, size 16, rank 11, hostaname elf47, memory 898412 Kb
+initialization time 2.622686, counting time 397.286818, writing time 0.000003, size 16, rank 1, hostaname elf43, memory 895512 Kb
+initialization time 2.432029, counting time 288.136322, writing time 0.000003, size 16, rank 15, hostaname elf19, memory 898052 Kb
+initialization time 2.585607, counting time 335.287229, writing time 0.000003, size 16, rank 4, hostaname elf14, memory 897092 Kb
+initialization time 2.666312, counting time 360.880566, writing time 0.000001, size 16, rank 7, hostaname elf42, memory 894992 Kb
+initialization time 2.557932, counting time 309.294023, writing time 0.000003, size 16, rank 8, hostaname elf18, memory 896944 Kb
+initialization time 2.572237, counting time 334.967873, writing time 0.000003, size 16, rank 5, hostaname elf14, memory 896928 Kb
+initialization time 2.511627, counting time 367.545855, writing time 0.000003, size 16, rank 9, hostaname elf18, memory 896908 Kb
+elf43
+---Done---
+
+initialization time 1.009106, counting time 148.218695, writing time 0.000003, size 16, rank 2, hostaname elf02, memory 502324 Kb
+initialization time 1.039761, counting time 164.088172, writing time 0.000003, size 16, rank 4, hostaname elf14, memory 501604 Kb
+initialization time 1.041103, counting time 204.065930, writing time 0.000003, size 16, rank 6, hostaname elf42, memory 500136 Kb
+initialization time 0.988229, counting time 153.567971, writing time 0.000003, size 16, rank 8, hostaname elf18, memory 501500 Kb
+initialization time 0.934705, counting time 169.436909, writing time 0.000011, size 16, rank 10, hostaname elf47, memory 502956 Kb
+initialization time 1.043399, counting time 183.136731, writing time 0.000003, size 16, rank 0, hostaname elf43, memory 500332 Kb
+version 2, cores 16, total time 205.375386 seconds, words 50000, lines 200000
+initialization time 0.924757, counting time 145.233341, writing time 0.000003, size 16, rank 14, hostaname elf19, memory 501636 Kb
+initialization time 1.005425, counting time 150.263373, writing time 0.000003, size 16, rank 3, hostaname elf02, memory 501872 Kb
+initialization time 1.028882, counting time 165.780625, writing time 0.000003, size 16, rank 5, hostaname elf14, memory 501804 Kb
+initialization time 1.017340, counting time 164.857159, writing time 0.000003, size 16, rank 7, hostaname elf42, memory 501748 Kb
+initialization time 0.940178, counting time 155.255574, writing time 0.000001, size 16, rank 12, hostaname elf53, memory 502704 Kb
+initialization time 0.979956, counting time 182.128578, writing time 0.000003, size 16, rank 9, hostaname elf18, memory 501724 Kb
+initialization time 0.993392, counting time 158.652065, writing time 0.000003, size 16, rank 11, hostaname elf47, memory 502828 Kb
+initialization time 1.042178, counting time 183.737910, writing time 0.000001, size 16, rank 1, hostaname elf43, memory 500044 Kb
+initialization time 0.903593, counting time 141.465507, writing time 0.000003, size 16, rank 15, hostaname elf19, memory 502688 Kb
+initialization time 0.937877, counting time 189.804797, writing time 0.000001, size 16, rank 13, hostaname elf53, memory 502688 Kb
+elf43
+---Done---
+

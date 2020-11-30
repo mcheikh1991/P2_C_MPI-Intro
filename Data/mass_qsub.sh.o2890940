@@ -1,0 +1,40 @@
+initialization time 5.085536, counting time 3032.081379, writing time 0.000003, size 4, rank 0, hostaname elf05, memory 2046264 Kb
+version 2, cores 4, total time 3313.060196 seconds, words 50000, lines 1000000
+initialization time 5.588550, counting time 3270.036232, writing time 0.000003, size 4, rank 1, hostaname elf05, memory 2046368 Kb
+initialization time 5.235623, counting time 3288.742459, writing time 0.000003, size 4, rank 2, hostaname elf05, memory 2046392 Kb
+initialization time 6.103380, counting time 3306.955975, writing time 0.000002, size 4, rank 3, hostaname elf05, memory 2046532 Kb
+elf05
+---Done---
+
+initialization time 3.909681, counting time 2371.065875, writing time 0.000003, size 4, rank 0, hostaname elf05, memory 1651172 Kb
+version 2, cores 4, total time 2634.358820 seconds, words 50000, lines 800000
+initialization time 3.954434, counting time 2591.511522, writing time 0.000003, size 4, rank 1, hostaname elf05, memory 1651172 Kb
+initialization time 3.915132, counting time 2615.014241, writing time 0.000003, size 4, rank 2, hostaname elf05, memory 1651112 Kb
+initialization time 3.955651, counting time 2630.402457, writing time 0.000003, size 4, rank 3, hostaname elf05, memory 1651020 Kb
+elf05
+---Done---
+
+initialization time 2.934152, counting time 1778.235230, writing time 0.000002, size 4, rank 0, hostaname elf05, memory 1255904 Kb
+version 2, cores 4, total time 1970.486237 seconds, words 50000, lines 600000
+initialization time 2.967501, counting time 1936.175464, writing time 0.000003, size 4, rank 1, hostaname elf05, memory 1255748 Kb
+initialization time 2.929031, counting time 1962.510826, writing time 0.000003, size 4, rank 2, hostaname elf05, memory 1255792 Kb
+initialization time 2.941723, counting time 1967.544021, writing time 0.000003, size 4, rank 3, hostaname elf05, memory 1255608 Kb
+elf05
+---Done---
+
+initialization time 2.387130, counting time 1210.458515, writing time 0.000003, size 4, rank 0, hostaname elf05, memory 860436 Kb
+version 2, cores 4, total time 1319.032894 seconds, words 50000, lines 400000
+initialization time 1.963018, counting time 1306.232973, writing time 0.000003, size 4, rank 1, hostaname elf05, memory 860476 Kb
+initialization time 2.362534, counting time 1312.629122, writing time 0.000003, size 4, rank 2, hostaname elf05, memory 860620 Kb
+initialization time 2.092808, counting time 1316.938901, writing time 0.000003, size 4, rank 3, hostaname elf05, memory 860468 Kb
+elf05
+---Done---
+
+initialization time 1.690462, counting time 604.223895, writing time 0.000003, size 4, rank 0, hostaname elf05, memory 464796 Kb
+version 2, cores 4, total time 659.070931 seconds, words 50000, lines 200000
+initialization time 1.720068, counting time 654.747636, writing time 0.000003, size 4, rank 1, hostaname elf05, memory 465004 Kb
+initialization time 1.738692, counting time 657.208614, writing time 0.000010, size 4, rank 2, hostaname elf05, memory 465068 Kb
+initialization time 1.735486, counting time 657.334543, writing time 0.000010, size 4, rank 3, hostaname elf05, memory 465060 Kb
+elf05
+---Done---
+

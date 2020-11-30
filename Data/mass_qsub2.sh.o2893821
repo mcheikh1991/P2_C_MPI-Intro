@@ -1,0 +1,12 @@
+initialization time 87.773394, counting time 1991.722793, writing time 0.019719, size 8, rank 4, hostaname elf71, memory 2024748 Kb
+initialization time 170.141220, counting time 3419.818408, writing time 0.000264, size 8, rank 6, hostaname elf70, memory 1953776 Kb
+initialization time 110.400081, counting time 4046.709369, writing time 0.000003, size 8, rank 5, hostaname elf71, memory 1969668 Kb
+initialization time 5.805280, counting time 1862.307512, writing time 0.013813, size 8, rank 1, hostaname elf23, memory 2123748 Kb
+initialization time 5.357813, counting time 3721.375513, writing time 0.000004, size 8, rank 3, hostaname elf79, memory 2086416 Kb
+initialization time 4.673633, counting time 1718.497144, writing time 0.001649, size 8, rank 7, hostaname elf70, memory 2086708 Kb
+initialization time 138.513776, counting time 3505.395680, writing time 0.000422, size 8, rank 0, hostaname elf23, memory 1986288 Kb
+version 2, cores 8, total time 4157.474812 seconds, words 50000, lines 1000000
+initialization time 93.757937, counting time 1864.405334, writing time 0.001494, size 8, rank 2, hostaname elf79, memory 2025064 Kb
+elf23
+---Done---
+
